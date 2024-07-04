@@ -26,25 +26,25 @@ Os participantes aprenderam e aplicaram sobre:
 
 ### IA assistente Samu
 
-[!()]
+![wandressa-projeto.png](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Wandressa/wandressa-projeto.png)
 
-#### Aluna: Wandressa Reis  
+### Aluna: Wandressa Reis  
 
-**Descrição:** O código realiza o diagnóstico de ocorrências de saúde com base em descrições detalhadas usando embeddings de texto. Também gera automaticamente e-mails para equipes de ambulância com informações sobre as ocorrências. 
+**Descrição:** O assistente de ocorrências realiza o diagnóstico de ocorrências de saúde com base em descrições detalhadas usando embeddings de texto. Também gera automaticamente e-mails para equipes de ambulância com informações sobre as ocorrências como nivel de prioridade e tipo de ambulância. 
 
-**Codigo:** ()
+**Código:** ([Wandressa projeto.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Wandressa/wandressa_projeto.ipynb))
 
 **Link para o video:** ()
 
 ### IA assistente de dieta
 
-[!()]
+![assistente_dieta.jpeg](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Wanderson%20e%20Felipe/assistente_dieta.jpeg)
 
-#### Alunos: Wanderson Morais e Felipe Rubens
+### Alunos: Wanderson Morais e Felipe Rubens
 
 **Descrição:** Recomenda dietas personalizadas com base nas preferências e necessidades dos usuários. Ele utiliza embeddings de texto para calcular a similaridade entre as solicitações de dieta dos usuários e os alimentos disponíveis em uma base de dados, oferecendo recomendações de dieta eficazes e personalizadas.
 
-**Codigo:** ()
+**Código:** ([Wanderson Morais e Felipe Rubens.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Wanderson%20e%20Felipe/Wanderson_e_Felipe_Assistente_de_dieta.ipynb))
 
 **Link para o video:** ()
 
@@ -52,10 +52,10 @@ Os participantes aprenderam e aplicaram sobre:
 
 [!()]
 
-#### Alunos: Natalia Almada e Vitor Jordão
+### Alunos: Natalia Almada e Vitor Jordão
 
 **Descrição:** Implementa um assistente de diagnóstico de subluxações para quiropráticos. Utiliza embeddings de texto gerados pelo modelo BERT para calcular a similaridade entre sintomas informados pelo usuário e possíveis sintomas de subluxações listados em uma base de dados.
 
-**Codigo:** ()
+**Código:** ([Natalia Almada e Vitor Jordão.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Natalia%20e%20Vitor/natalia_vitor_assistente_luxa%C3%A7%C3%A3o.ipynb))
 
 **Link para o video:** ()
