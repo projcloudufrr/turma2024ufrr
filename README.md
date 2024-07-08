@@ -62,9 +62,21 @@ Os participantes aprenderam e aplicaram sobre:
 
 ### Perguntas e Respostas 
 
-![Foto Leonardo](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Leonardo%20e%20Jasson/Leonardo%20Carvalho%20Video%20demonstrativo.mp4)
+[!()]
 
 ### Alunos: Leonardo Carvalho e Jasson Júnior 
+
+**Descrição:** Descrição do projeto
+
+**Código:** ([Leonardo Carvalho.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Leonardo%20e%20Jasson/Leonardo_e_Jasson.ipynb))
+
+**Link para o video:** [Video](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Leonardo%20e%20Jasson/Leonardo%20Carvalho%20Video%20demonstrativo.mp4)
+
+### Indicações de Remedios baseados nos sintomas
+
+[!()]
+
+### Alunos: Marcos Melo 
 
 **Descrição:** Descrição do projeto
 
