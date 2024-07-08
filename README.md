@@ -59,3 +59,13 @@ Os participantes aprenderam e aplicaram sobre:
 **Código:** ([Natalia Almada e Vitor Jordão.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Natalia%20e%20Vitor/natalia_vitor_assistente_luxa%C3%A7%C3%A3o.ipynb))
 
 **Link para o video:** ()
+
+### Projeto Leonardo Carvalho
+
+![Foto Leonardo]()
+
+### Aluno: Leonardo Carvalho
+
+**Descrição:** Descrição do projeto
+
+**Código:** ([]())
