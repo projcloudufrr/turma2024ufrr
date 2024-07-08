@@ -69,3 +69,5 @@ Os participantes aprenderam e aplicaram sobre:
 **Descrição:** Descrição do projeto
 
 **Código:** ([Leonardo Carvalho.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Leonardo%20e%20Jasson/Leonardo_e_Jasson.ipynb))
+
+**CódLink para o video:** (https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Leonardo%20e%20Jasson/Leonardo%20Carvalho%20Video%20demonstrativo.mp4)
