@@ -76,10 +76,10 @@ Os participantes aprenderam e aplicaram sobre:
 
 [!()]
 
-### Alunos: Marcos Melo 
+### Aluno: Marcos Melo 
 
-**Descrição:** Descrição do projeto
+**Descrição:** Baseado no que o usuario diga com relação a sua 
 
-**Código:** ([Leonardo Carvalho.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Leonardo%20e%20Jasson/Leonardo_e_Jasson.ipynb))
+**Código:** ([MarcosMelo.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Marcos/MarcosMelo.ipynb))
 
-**Link para o video:** [Video](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Leonardo%20e%20Jasson/Leonardo%20Carvalho%20Video%20demonstrativo.mp4)
+**Link para o video:** [Video]( https://youtu.be/qk2lpom6kgM)
