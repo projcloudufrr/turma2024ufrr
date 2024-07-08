@@ -60,12 +60,11 @@ Os participantes aprenderam e aplicaram sobre:
 
 **Link para o video:** ()
 
-### Projeto Leonardo Carvalho
-
+### Perguntas e Respostas 
 ![Foto Leonardo]()
 
-### Aluno: Leonardo Carvalho
+### Alunos: Leonardo Carvalho e Jasson Júnior 
 
 **Descrição:** Descrição do projeto
 
-**Código:** ([]())
+**Código:** ([Leonardo Carvalho.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Leonardo/Leonardo%20Carvalho.ipynb))
