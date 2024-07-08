@@ -83,3 +83,15 @@ Os participantes aprenderam e aplicaram sobre:
 **Código:** ([MarcosMelo.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Marcos/MarcosMelo.ipynb))
 
 **Link para o video:** [Video]( https://youtu.be/qk2lpom6kgM)
+
+### Projeto Matheus
+
+[!()]
+
+### Aluno: Matheus Melo 
+
+**Descrição:** Descrição projeto Matheus Melo
+
+**Código:** ([MarcosMelo.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Marcos/MarcosMelo.ipynb))
+
+**Link para o video:** ()
