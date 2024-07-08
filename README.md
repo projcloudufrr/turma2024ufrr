@@ -78,7 +78,7 @@ Os participantes aprenderam e aplicaram sobre:
 
 ### Aluno: Marcos Melo 
 
-**Descrição:** Baseado no que o usuario diga com relação a sua 
+**Descrição:** Baseado no que o usuario diga com relação aos seus sintomas, devolve um remedio indicado para tratar eles tirando esses dados de uma planilha pré-alimentada e usa IA para deixar as recomendações mais completas e informativas.
 
 **Código:** ([MarcosMelo.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Marcos/MarcosMelo.ipynb))
 
