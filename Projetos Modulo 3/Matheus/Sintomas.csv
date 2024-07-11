@@ -1,0 +1,18 @@
+Sintoma,Descrição da Doença,Nome da Doença,Possíveis Tratamentos,Tipos de Médicos
+"Dor de cabeça, náusea, vômito",Enxaqueca,Enxaqueca,"Medicamentos para dor, mudanças no estilo de vida, gatilhos de identificação e gerenciamento",Neurologista
+"Fadiga, perda de cabelo, pele seca",Desequilíbrio hormonal,Hipotireoidismo,"Hormônio tireoidiano sintético, mudanças no estilo de vida","Endocrinologista, médico de clínica geral"
+"Febre, calafrios, suor",Infecção bacteriana no sangue,Sepse,"Antibióticos intravenosos, suporte de fluidos e pressão arterial, cuidados intensivos","Médico de doenças infecciosas, intensivista"
+"Dor abdominal intensa, náusea, vômito",Apendicite,Apendicite,Cirurgia para remover o apêndice,Cirurgião geral
+"Dor nas costas, febre, calafrios",Infecção renal,Pielonefrite,"Antibióticos orais ou intravenosos, fluidos","Urologista, médico de clínica geral"
+"Dificuldade para respirar, dor no peito, chiado",Inflamação das vias aéreas,Asma,"Inaladores, medicamentos orais, mudanças no estilo de vida","Pneumologista, alergista"
+"Diarreia, dor abdominal, náusea",Infecção bacteriana ou viral no intestino,Diarreia infecciosa,"Hidratação oral ou intravenosa, medicamentos para diarreia","Médico de clínica geral, pediatra"
+"Dor nos olhos, vermelhidão, sensibilidade à luz",Inflamação da conjuntiva,"Conjuntivite (""olho vermelho"")","Colírios anti-inflamatórios, antibióticos tópicos (se bacteriana)",Oftalmologista
+"Dor de garganta, inchaço das amígdalas",Infecção bacteriana ou viral da garganta,"Faringite (""dor de garganta"")","Medicamentos para dor, gargarejos com água salgada, descanso","Médico de clínica geral, pediatra"
+"Prisão de ventre, dor abdominal, inchaço",Dificuldade na passagem das fezes,Prisão de ventre,"Mudanças na dieta, aumento da ingestão de líquidos, exercícios físicos, medicamentos laxantes","Gastroenterologista, médico de clínica geral"
+"Queimação no estômago, dor abdominal, regurgitação ácida",Refluxo ácido do estômago para o esôfago,Doença do Refluxo Gastroesofágico (DRGE),"Medicamentos antiácidos, mudanças no estilo de vida","Gastroenterologista, médico de clínica geral"
+"Perda de memória, confusão, alterações de humor",Doença neurodegenerativa,Doença de Alzheimer,"Medicamentos para melhorar a função cognitiva, suporte emocional e cuidados para o paciente e familiares","Neurologista, geriatra"
+"Dificuldade para urinar, dor ao urinar, sangue na urina",Infecção do trato urinário,Infecção do Trato Urinário (ITU),"Antibióticos orais, fluidos","Urologista, médico de clínica geral"
+"Dor nas articulações, rigidez matinal, inchaço",Doença autoimune que causa inflamação nas articulações,Artrite reumatoide,"Medicamentos anti-inflamatórios, medicamentos modificadores da doença, fisioterapia",Reumatologista
+"Insônia, fadiga diurna, irritabilidade",Distúrbio do sono que causa dificuldade para dormir ou permanecer dormindo,Insônia,"Terapia cognitivo-comportamental para insônia (TCC-I), medicamentos para dormir","Psiquiatra, neurologista"
+"Dor no pé, vermelhidão, inchaço",Inflamação das veias,Trombose venosa profunda (TVP),"Medicamentos anticoagulantes, compressão das pernas, elevação das pernas","Angiologista, médico de clínica geral"
+"Dor de ouvido, perda auditiva, secreção do ouvido",Infecção do ouvido médio,Otite média,"Antibióticos orais, analgésicos, tímpanotomia (em casos graves)","Otorrinolaringologista (médico de ouvido, nariz e garganta)"

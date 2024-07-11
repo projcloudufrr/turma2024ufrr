@@ -1,10 +1,5 @@
 # Cloud & Saúde 2024
 
-## Índice
-
-1. [Introdução](#introdução)
-2. [Projetos](#projetos)
-
 ## Introdução
 
 Este curso visa capacitar alunos acadêmicos, técnicos e profissionais da área de tecnologia e saúde para o uso de tecnologias de computação em nuvem. O foco é compartilhar dados e automatizar diagnósticos de pacientes, introduzindo novas tecnologias que melhoram o atendimento, a qualidade de vida dos pacientes, e tornam o cuidado médico mais eficaz e acessível, além de reduzir custos.
@@ -13,14 +8,6 @@ Este curso visa capacitar alunos acadêmicos, técnicos e profissionais da área
 ### Módulo 3 - Hands On
 
 **O módulo foi voltado para programação em Python, IA gerativa e as novidades dos Large Language Models (LLMs) em projetos de saúde.**
-
-Os participantes aprenderam e aplicaram sobre:
-
-- A estrutura dos LLMs
-- Engenharia de prompts
-- Construção de templates para comunicação com IA
-- Uso correto de tokens
-- Integração em projetos
 
 *obs: todos os projetos exigem a GOOGLE_API_KEY do Gemini, para mais detalhes acessar (https://aistudio.google.com/app/apikey)
 
@@ -36,6 +23,7 @@ Os participantes aprenderam e aplicaram sobre:
 
 [Link do video de apresentação](https://drive.google.com/file/d/1oQ5WppDsCv3mju1ukLedUVqwRPH1tnjo/view?usp=sharing)
 
+
 ### IA assistente de dieta
 
 ![assistente_dieta.jpeg](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Wanderson%20e%20Felipe/assistente_dieta.jpeg)
@@ -45,6 +33,7 @@ Os participantes aprenderam e aplicaram sobre:
 **Descrição:** Recomenda dietas personalizadas com base nas preferências e necessidades dos usuários. Ele utiliza embeddings de texto para calcular a similaridade entre as solicitações de dieta dos usuários e os alimentos disponíveis em uma base de dados, oferecendo recomendações de dieta eficazes e personalizadas.
 
 **Código:** ([Wanderson Morais e Felipe Rubens.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Wanderson%20e%20Felipe/Wanderson_e_Felipe_Assistente_de_dieta.ipynb))
+
 
 ### IA assistente de subluxações para quiropraxista
 

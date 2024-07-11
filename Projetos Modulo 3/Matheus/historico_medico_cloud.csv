@@ -1,0 +1,10 @@
+nome,data_nascimento,Sexo,tipo_sanguineo,plano_saude,medico_principal,doenca,diagnostico,data_diagnostico,Medico_Diagnostico,medicamento,dosagem,frequencia,observacoes
+João Silva,01/01/1980,M,A+,XYZ Saúde,Dr. Carlos Oliveira,Hipertensão arterial,Pressão arterial elevada (140/90 mmHg),2005/01/01,Dr. Carlos Oliveira,Losartan 50mg,1x ao dia,Manhã,Nenhuma
+Pedro Oliveira,01/01/1980,M,A+,XYZ Saúde,Dr. Carlos Oliveira,Diabetes tipo 2,Nível de glicose no sangue elevado (160 mg/dL),2010/01/01,Dr. Carlos Oliveira,Metformina 500mg,2x ao dia,Manhã e Noite,Nenhuma
+Jose,01/01/1980,M,A+,XYZ Saúde,Dr. Paulo Souza,Rinite alérgica,Congestão nasal,espirros,coceira nos olhos,2018/01/01,Dr. Paulo Souza,Loratadina 10mg,1x ao dia
+Raimundo,01/01/1980,M,A+,XYZ Saúde,Dr. Marcos Santos,Gastrite,Dor abdominal,náusea,azia,2021/01/01,Dr. Marcos Santos,Omeprazol 20mg,1x ao dia
+Elizabeth,01/01/1985,F,B+,Plano ABC,Dra. Ana Oliveira,Asma,Dificuldade para respirar,chiado no peito,2008/01/01,Dra. Ana Oliveira,Salbutamol inalador,Conforme necessidade,Crises de asma
+Marcia,01/01/1985,F,B+,Plano ABC,Dra. Ana Oliveira,Depressão,Tristeza profunda,desânimo,falta de interesse em atividades,2015/01/01,Dra. Ana Oliveira,Fluoxetina 20mg,1x ao dia
+Maria Souza,01/01/1985,F,B+,Plano ABC,Dra. Beatriz Silva,Enxaqueca,Dor de cabeça intensa,náusea,vômito,2019/01/01,Dra. Beatriz Silva,Sumatriptana 100mg,Conforme necessidade
+Paulo,01/01/1990,M,O+,Sem plano,Dr. Carlos Santos,Refluxo gastroesofágico,Azia,queimação no estômago,2012/01/01,Dr. Carlos Santos,Omeprazol 20mg,2x ao dia,Manhã e Noite
+Irineu,01/01/1990,M,O+,Sem plano,Dr. Carlos Santos,Ansiedade,Nervosismo,inquietação,dificuldade para se concentrar,2017/01/01,Dr. Carlos Santos,Clonazepam 0.5mg,1x ao dia
