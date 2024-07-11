@@ -11,49 +11,60 @@ dados em Cloud ThingSpeak.
 ### Dashboard Power BI
 **Descrição:** elaborar um Dashboard para visualizar dados do DataSUS. Este dashboard deve ser elaborado com a ferramenta PowerBi da Microsoft. Os dados coletados do Datasus de preferência devem ser relacionados com o estado de Roraima. 
 
-#### Aluno: Felipe Rubens
-**Código Análise:** ([atv_Felipe_Rubens_de_Sousa_Borges.ipynb]())
+---
+### Aluno: Felipe Rubens
+**Código Análise:** ([atv_Felipe_Rubens_de_Sousa_Borges.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Felipe/atv_Felipe_Rubens_de_Sousa_Borges.ipynb))
 
 **Link para o projeto:** [ThinkCard]
 
+---
 
-#### Aluno: Francisco
-**Dashboard**: ![Dashboard_Francisco.png]()
+### Aluno: Francisco Eduardo
+#### Dashboard: 
+![Dashboard_Francisco.png](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Francisco/Dashboard_Francisco.png)
 
+### Aluno: João Pedro
+#### Dashboard: 
+![dashboard_joao.png](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Jo%C3%A3o/dashboard_joao.png)
 
-#### Aluno: João Pedro
-**Dashboard**: ![dashboard_joao.png]()
+---
 
-
-#### Aluno: Marcos Vinicius
-**Código Análise:** ([atv_Felipe_Rubens_de_Sousa_Borges.ipynb]())
-
-**Link para o projeto:** [ThinkCard]
-
-**Dashboard**: ![Dashboard_Marcos.png]()
-
-
-#### Aluno: Natalia Almada
-**Código Análise:** ([atv_Felipe_Rubens_de_Sousa_Borges.ipynb]())
+### Aluno: Marcos Vinicius
+**Código Análise:** ([atv_Marcos_Vinícius_Melo_da_Silva.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Marcos/atv_Marcos_Vin%C3%ADcius_Melo_da_Silva.ipynb))
 
 **Link para o projeto:** [ThinkCard]
 
+#### Dashboard: 
+![Dashboard_Marcos.png](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Marcos/Dashboard_Marcos.png)
 
-#### Aluno: Vitor Jordão
-**Código Análise:** ([atv_Felipe_Rubens_de_Sousa_Borges.ipynb]())
+---
 
-**Link para o projeto:** [ThinkCard]
-
-**Dashboard**: ![Dashboard_vitor.png]()
-
-
-#### Aluno: Wanderson Morais
-**Código Análise:** ([atv_Felipe_Rubens_de_Sousa_Borges.ipynb]())
-
-**Dashboard**: ![Dashboard_wanderson.png]()
+### Aluna: Natalia Almada
+**Código Análise:** ([atv_Natália_Ribeiro_de_Almada.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Natalia/atv_Nat%C3%A1lia_Ribeiro_de_Almada.ipynb))
 
 **Link para o projeto:** [ThinkCard]
 
+---
+
+### Aluno: Vitor Jordão
+**Código Análise:** ([atv_Vitor_Jordao_Carneiro_Briglia.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Vitor/atv_Vitor_Jordao_Carneiro_Briglia.ipynb))
+
+**Link para o projeto:** [ThinkCard]
+
+#### Dashboard: 
+![Dashboard_vitor.png](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Vitor/Dashboard_vitor.png)
+
+---
+
+### Aluno: Wanderson Morais
+**Código Análise:** ([atv_Wanderson_morais_de_sousa.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Wanderson/atv_Wanderson_morais_de_sousa.ipynb))
+
+#### Dashboard:
+![Dashboard_wanderson.png](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Wanderson/Dashboard_wanderson.png)
+
+**Link para o projeto:** [ThinkCard]
+
+---
 
 ## Módulo 3 - Hands On
 
