@@ -15,16 +15,16 @@ dados em Cloud ThingSpeak.
 ### Aluno: Felipe Rubens
 **Código Análise:** ([atv_Felipe_Rubens_de_Sousa_Borges.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Felipe/atv_Felipe_Rubens_de_Sousa_Borges.ipynb))
 
-**Link para o projeto:** [ThinkCard]
+**Link para o projeto:** ([ThinkCard](https://www.tinkercad.com/things/4SQ9AHTL2pP-monitortempfelipe?sharecode=RTGepJqr-uXVsKc7RJUJ8x_UsDfjqV4p6MegV7u-wIM))
 
 ---
 
 ### Aluno: Francisco Eduardo
-#### Dashboard: 
+#### Dashboard: O Aluno buscou mostrar mediante esse dashboard a relação que internações hospitalares tem com o genero e raça durante o ano de 2019.
 ![Dashboard_Francisco.png](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Francisco/Dashboard_Francisco.png)
 
 ### Aluno: João Pedro
-#### Dashboard: 
+#### Dashboard: Neste Dashboard o aluno fez uma análise de internações hospitalares e mortes por etinias, também separou essas mortes por sexoe e apresentou um resumo de informações relevantes no topo do Dashboard.
 ![dashboard_joao.png](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Jo%C3%A3o/dashboard_joao.png)
 
 ---
@@ -32,9 +32,9 @@ dados em Cloud ThingSpeak.
 ### Aluno: Marcos Vinicius
 **Código Análise:** ([atv_Marcos_Vinícius_Melo_da_Silva.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Marcos/atv_Marcos_Vin%C3%ADcius_Melo_da_Silva.ipynb))
 
-**Link para o projeto:** [ThinkCard]
+**Link para o projeto:** ([ThinkCard](https://www.tinkercad.com/things/kQOLLhzGwka-circuito-marcos?sharecode=xUYUkmxPdfUXh3gXA0C2ZyHaa2Skcwzs5Q49wECMvxk))
 
-#### Dashboard: 
+#### Dashboard: Apresenta dois gráficos mostrando a mortalidade por faixa etária, o primeiro grafico é separado por genêro um para a demonstração de mortalidade das Mulheres e outro mostrando a dos Homens o segundo apresenta uma comparação dos dois para uma melhor visualização dos dados.
 ![Dashboard_Marcos.png](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Marcos/Dashboard_Marcos.png)
 
 ---
@@ -42,16 +42,16 @@ dados em Cloud ThingSpeak.
 ### Aluna: Natalia Almada
 **Código Análise:** ([atv_Natália_Ribeiro_de_Almada.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Natalia/atv_Nat%C3%A1lia_Ribeiro_de_Almada.ipynb))
 
-**Link para o projeto:** [ThinkCard]
+**Link para o projeto:** ([ThinkCard](https://www.tinkercad.com/things/6FjREF3zkdg-spectacular-maimu-projeto-cloud-natalia?sharecode=LHM568lGxgRnW5jjkUhhfXkooaRkH4sMRrP-3z_Kyx8))
 
 ---
 
 ### Aluno: Vitor Jordão
 **Código Análise:** ([atv_Vitor_Jordao_Carneiro_Briglia.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Vitor/atv_Vitor_Jordao_Carneiro_Briglia.ipynb))
 
-**Link para o projeto:** [ThinkCard]
+**Link para o projeto:** ([ThinkCard](https://www.tinkercad.com/things/epMCJyJiCfX-atv-2?sharecode=u7-e7KcU099hiVd0cmIkaIaVvRbCXoaIwJtrPCwD8a4))
 
-#### Dashboard: 
+#### Dashboard: Nesse Dashboard o aluno apresenta uma relação das causas de mortes durante uma semana em Boa Vista, para expor esses dados adotou 3 tipos de graficos um para mostrar a idade de mortalidade, o segundo tem como objetivo fazer uma relação de genêro nas mortes e a terceira é para verificar a causa da Morte.
 ![Dashboard_vitor.png](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Vitor/Dashboard_vitor.png)
 
 ---
@@ -59,10 +59,10 @@ dados em Cloud ThingSpeak.
 ### Aluno: Wanderson Morais
 **Código Análise:** ([atv_Wanderson_morais_de_sousa.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Wanderson/atv_Wanderson_morais_de_sousa.ipynb))
 
-#### Dashboard:
+#### Dashboard: O Dashboard tem o intuido de coorelacionar o analfabetismo dos municípios de Roraima com a baixa renda dos mesmos, para tanto o aluno apresentou dois tipos de gráficos, um para a vizualização em colunas e outro em formato de pizza buscando deixar os dados o mais explicativo possível. 
 ![Dashboard_wanderson.png](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Wanderson/Dashboard_wanderson.png)
 
-**Link para o projeto:** [ThinkCard]
+**Link para o projeto:** ([ThinkCard](https://www.tinkercad.com/things/3nglgjTBrVx-temp-wanderson/editel?sharecode=Pu7Fguk1saxgk9Deh5STQc88FkSxDLIbW1vDBR2dGVM))
 
 ---
 
@@ -139,9 +139,6 @@ dados em Cloud ThingSpeak.
 **Código:** ([MarcosMelo.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/main/Projetos%20Modulo%203/Matheus/MatheusMelo.ipynb))
 
 **Link para o video:** ()
-
-[Link do video de apresentação](https://drive.google.com/file/d/1E_2xmjdxZSHgi2l1GsMPUghKvMPhfjFF/view?usp=drive_link)
-
 
 
 *obs: todos os projetos exigem a GOOGLE_API_KEY do Gemini, para mais detalhes acessar (https://aistudio.google.com/app/apikey)
