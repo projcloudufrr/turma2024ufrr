@@ -59,10 +59,11 @@ dados em Cloud ThingSpeak.
 ### Aluno: Wanderson Morais
 **Código Análise:** ([atv_Wanderson_morais_de_sousa.ipynb](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Wanderson/atv_Wanderson_morais_de_sousa.ipynb))
 
+**Link para o projeto:** ([ThinkCard](https://www.tinkercad.com/things/3nglgjTBrVx-temp-wanderson/editel?sharecode=Pu7Fguk1saxgk9Deh5STQc88FkSxDLIbW1vDBR2dGVM))
+
+
 #### Dashboard: O Dashboard tem o intuido de coorelacionar o analfabetismo dos municípios de Roraima com a baixa renda dos mesmos, para tanto o aluno apresentou dois tipos de gráficos, um para a vizualização em colunas e outro em formato de pizza buscando deixar os dados o mais explicativo possível. 
 ![Dashboard_wanderson.png](https://github.com/projcloudufrr/turma2024ufrr/blob/feature/Projetos%20Modulo%202/Wanderson/Dashboard_wanderson.png)
-
-**Link para o projeto:** ([ThinkCard](https://www.tinkercad.com/things/3nglgjTBrVx-temp-wanderson/editel?sharecode=Pu7Fguk1saxgk9Deh5STQc88FkSxDLIbW1vDBR2dGVM))
 
 ---
 
